@@ -33,7 +33,7 @@ module.exports = {
     'import/prefer-default-export': 'off',
     'react/prefer-stateless-function': [0, { "ignorePureComponents": true }],
     'react/state-in-constructor': [0, 'always'],
-
+    'no-param-reassign': 'off',
     'react/prop-types': [0],
     'no-console': ["error", {allow: ["tron"]}]
 
